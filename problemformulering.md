@@ -30,10 +30,10 @@ En gennemgang af muligheder og begrænsninger. Jura og praksis.
 
 Gennengang af juraen i [CRA, seneste forslag](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_DA.html) i forhold til de forskellige scenarier for brug af OOS ved udvikling af software.
 
-Primær vinkel er de forskellige roller indenfor udvikling af OSS. og forskellige måder udvikling af OSS foregår.
-
-Hvornår bliver kode et produkt( tolkning) og hvad er mulighederne/faldgrupperne i "open source software-forvalter"? 
+Primær vinkel er de forskellige roller indenfor udvikling af OSS. og forskellige måder udvikling af OSS organiseres.
 
 OSS udvikles i dag i internationale sammenhænge. Hvordan hænger det sammen med leverandør og forsyningskædesikkerhed?.
+
+Hvornår bliver kode et produkt( tolkning) og hvad er mulighederne/faldgrupperne i "open source software-forvalter"? Definitionen i CRA er noget vag. Men den 'juridiske person' ser ud til at være tildelt en vigtig rolle.
 
 OSS er i som udgangspunkt genemsigtig i forhold til funktionalitet da al kode er offentlig og kan verificees umiddelbart. Fordele/Ulemper i forhold til kravene i NIS2 / CRA. 
