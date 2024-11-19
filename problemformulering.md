@@ -28,7 +28,7 @@ En gennemgang af muligheder og begrænsninger. Jura og praksis.
 ## 3 Cyber Resilience Act i forhold til Open source 
 ### Hvordan kan Open Source Software[OSS] håndteres i softwareudvikling, i forhold til Cyber Resilience Act
 
-Gennengang af juraen i [CRA, seneste forslag](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_DA.html) i forhold til de forskellige scenarier for brug ogudvikling af OSS ved udvikling af software.
+Gennengang af juraen i [CRA, seneste forslag](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_DA.html) i forhold til de forskellige scenarier for brug og udvikling af OSS ved udvikling af software.
 
 Primær vinkel er de forskellige roller indenfor udvikling af OSS. og forskellige måder udvikling af OSS organiseres, i forhold til graden af kommercielt islæt.
 
