@@ -14,19 +14,7 @@ Der er allerede en større samling af bøger, artikler, vejledninger, bøger mm.
 
 Det kan være en god øvelse i forhold det fremtidige arbejde med de løsninger jeg vil komme til at arbejde på fremover  
 
-
-## 2 Automatisering af afrapportering i forhold til NIS 2 / CRA ved integration og idriftsætning
-En kortlægning af hvilke obligatroriske afrapporteringer i GDPR / NIS 2 / CRA, der kan automatiseres i forhold udvikling og release af software.
-
-Det meste software der udvikles i dag idriftsættes automatisk ved hjælp af værktøjer der kører test og andre processer, inden og under idriftssættelse.
-
-En del af de obligatoriske analyser og kontroller der er i NIS2/CRA kan sættes op til at køre automatiseret ved integration og idriftsættelse af software.
-
-En gennemgang af muligheder og begrænsninger. Jura og praksis.
-
-
-
-## 3 Cyber Resilience Act i forhold til Open source 
+## 2 Cyber Resilience Act i forhold til Open source 
 ### Hvordan kan Open Source Software[OSS] håndteres i softwareudvikling, i forhold til Cyber Resilience Act
 
 Gennengang af juraen i [CRA, seneste forslag](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_DA.html) i forhold til de forskellige scenarier for brug og udvikling af OSS ved udvikling af software.
