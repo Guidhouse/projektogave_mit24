@@ -7,6 +7,7 @@ Med udgangspunkt i GDPR's Atikkel 25.
 
 En gennemgang af princippperne i [datatilsynets](https://www.datatilsynet.dk/Media/637689328983143992/Behandlingssikkerhed%20og%20databeskyttelse%20gennem%20design%20og%20standardindstillinger_2018.pdf) og 
 [CNIL](https://github.com/LINCnil/GDPR-Developer-Guide) og andre officielle vejledninger omkring privacy by design.
+Blandt andet [ENISA](https://www.enisa.europa.eu/publications/data-protection-engineering)
 Set i sammenhæng med begrænsninger/muligheder i almindelig software udvikling. 
 
 Der er allerede en større samling af bøger, artikler, vejledninger, bøger mm. på dette område, så jeg ved ikke om jeg kan bidrage med noget nyt. 
