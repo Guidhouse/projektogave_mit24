@@ -1,5 +1,6 @@
 # Opgaveformulering
-# Cyber Resilience Act i forhold til Open source 
+
+## Cyber Resilience Act i forhold til Open source 
 ### Hvordan kan Open Source Software[OSS] håndteres i softwareudvikling, i forhold til Cyber Resilience Act
 
 Gennengang af juraen i [CRA, seneste forslag](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_DA.html) i forhold til de forskellige scenarier for brug og udvikling af OSS ved udvikling af software.
