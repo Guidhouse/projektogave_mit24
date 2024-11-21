@@ -27,4 +27,4 @@ Hvornår bliver kode et produkt( tolkning) og hvad open source software-forvalte
 
 OSS er i som udgangspunkt genemsigtig i forhold til funktionalitet da al kode er offentlig og kan verificees umiddelbart. 
 
-Fordele/Ulemper i forhold til kravene i NIS2/CRA. Gennemsigtighed  
+Fordele/Ulemper ved OSS i forhold til kravene i NIS2/CRA. Gennemsigtighed og sporbarhed  
